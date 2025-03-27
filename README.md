@@ -1,4 +1,4 @@
-# POE Part 1  
+# POE Part 1  ChatBot
 
 ## Description  
 POE Part 1 is a foundational chatbot designed to provide a friendly greeting, user interaction, and predefined responses. It includes input validation and leverages GitHub for project version control and CI workflows. Additionally, the chatbot enhances the console interface with multimedia elements such as:  
@@ -16,9 +16,10 @@ Users can interact with the chatbot by:
 
 ## Installation  
 No installation is required. The chatbot runs directly as a console application.  
+(it is done/coded on Visual Studio 2022)
 
 ## Contribution  
-Currently, contributions are not defined. Future updates may include contribution guidelines.  
+Currently, contributions are not yet defined. Future updates can include contribution guidelines.  
 
 ## License  
 This project does not use a specific license.  
