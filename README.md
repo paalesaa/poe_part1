@@ -26,4 +26,5 @@ This project does not use a specific license.
 
 ---  
 
-This project is part of an academic assignment and may be expanded in future iterations.
+This project is part of![Screenshot of code](https://github.com/user-attachments/assets/30be1f46-d968-45b1-a165-50288b2f7b8b)
+ an academic assignment and may be expanded in future iterations.
